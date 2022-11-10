@@ -33,6 +33,7 @@
 
 ### 참고
 
+- [Github for SAI](https://sejongai.notion.site/Github-for-SAI-16f0ab49fa5c475e91751f68016d0af9)
 - [CONTRIBUTING.md template](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
 - [VSCode Linting](https://code.visualstudio.com/docs/python/linting)
 - [Python PEP8](https://peps.python.org/pep-0008/)
